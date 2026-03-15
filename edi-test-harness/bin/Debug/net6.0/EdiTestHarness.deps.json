@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EdiTestHarness/1.0.0": {
+        "dependencies": {
+          "OhioEdiParser": "1.0.0"
+        },
+        "runtime": {
+          "EdiTestHarness.dll": {}
+        }
+      },
+      "OhioEdiParser/1.0.0": {
+        "runtime": {
+          "OhioEdiParser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EdiTestHarness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OhioEdiParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Parser": "ohio",
+  "RunTimestamp": "2026-03-15T12:14:21Z",
+  "TotalFiles": 6,
+  "FilesParsed": 6,
+  "FilesFailed": 0,
+  "TotalMembers": 80,
+  "MembersWithCriticalErrors": 2,
+  "MembersClean": 78,
+  "TotalCoverages": 133,
+  "Validation": {
+    "Critical": 2,
+    "Warning": 2,
+    "Informational": 0
+  },
+  "TotalParseTimeMs": 19.1906,
+  "Files": [
+    {
+      "FileName": "OH_834_EDGE_CASES_20260315.edi",
+      "Success": true,
+      "ParseTimeMs": 17.5616,
+      "MemberCount": 6,
+      "CoverageCount": 10,
+      "CriticalIssues": 0,
+      "WarningIssues": 2,
+      "InfoIssues": 0
+    },
+    {
+      "FileName": "OH_834_ERROR_FILE_20260320.edi",
+      "Success": true,
+      "ParseTimeMs": 0.169,
+      "MemberCount": 5,
+      "CoverageCount": 5,
+      "CriticalIssues": 2,
+      "WarningIssues": 0,
+      "InfoIssues": 0
+    },
+    {
+      "FileName": "OH_834_LARGE_BATCH_20260401.edi",
+      "Success": true,
+      "ParseTimeMs": 1.0775,
+      "MemberCount": 50,
+      "CoverageCount": 88,
+      "CriticalIssues": 0,
+      "WarningIssues": 0,
+      "InfoIssues": 0
+    },
+    {
+      "FileName": "OH_834_MIXED_MAINT_20260215.edi",
+      "Success": true,
+      "ParseTimeMs": 0.1253,
+      "MemberCount": 6,
+      "CoverageCount": 9,
+      "CriticalIssues": 0,
+      "WarningIssues": 0,
+      "InfoIssues": 0
+    },
+    {
+      "FileName": "OH_834_RETRO_CHANGES_20260301.edi",
+      "Success": true,
+      "ParseTimeMs": 0.1049,
+      "MemberCount": 5,
+      "CoverageCount": 7,
+      "CriticalIssues": 0,
+      "WarningIssues": 0,
+      "InfoIssues": 0
+    },
+    {
+      "FileName": "OH_834_STANDARD_ENROLL_20260201.edi",
+      "Success": true,
+      "ParseTimeMs": 0.1523,
+      "MemberCount": 8,
+      "CoverageCount": 14,
+      "CriticalIssues": 0,
+      "WarningIssues": 0,
+      "InfoIssues": 0
+    }
+  ]
+}

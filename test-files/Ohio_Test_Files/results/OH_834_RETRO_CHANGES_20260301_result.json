@@ -1,0 +1,291 @@
+{
+  "FileName": "OH_834_RETRO_CHANGES_20260301.edi",
+  "Success": true,
+  "Duration": 0.1,
+  "SenderId": "OHMMIS",
+  "ReceiverId": "MCOPLAN",
+  "ControlNumber": "000000003",
+  "Transactions": [
+    {
+      "FileType": "Changes",
+      "ProviderId": "OH-MCO-001",
+      "EffectiveDate": "20260301",
+      "Members": [
+        {
+          "MemberId": "9A0300000001",
+          "MaintenanceType": "021",
+          "MaintenanceAction": "Add",
+          "LastName": "ROBINSON",
+          "FirstName": "ANGELA",
+          "MiddleName": "P",
+          "DateOfBirth": "19970210",
+          "Gender": "F",
+          "Ssn": "111111111",
+          "City": "SPRINGFIELD",
+          "State": "OH",
+          "Zip": "45502",
+          "CoverageCount": 2,
+          "Coverages": [
+            {
+              "MaintenanceType": "021",
+              "InsuranceLine": "HMO",
+              "PlanDescription": "CFC",
+              "BeginDate": "20260101",
+              "EndDate": "99991231",
+              "ExtendedFields": {
+                "RateCellIndicator": "0260101001",
+                "RateCellMissing": "False",
+                "PatientLiability": null,
+                "InsuranceLineDesc": "Health Maintenance Organization",
+                "PlanCoverageDescFull": "Covered Families and Children"
+              }
+            },
+            {
+              "MaintenanceType": "021",
+              "InsuranceLine": "MM",
+              "PlanDescription": "CFC",
+              "BeginDate": "20260101",
+              "EndDate": "99991231",
+              "ExtendedFields": {
+                "RateCellIndicator": "0260101001",
+                "RateCellMissing": "False",
+                "PatientLiability": null,
+                "InsuranceLineDesc": "Major Medical (Patient Liability)",
+                "PlanCoverageDescFull": "Covered Families and Children"
+              }
+            }
+          ],
+          "HasCriticalErrors": false,
+          "ExtendedFields": {
+            "AssignmentReason": "28",
+            "AssignmentReasonDesc": "Auto-enrollment: same MCE within previous 3 months, or newborn on mother\u0027s MCE",
+            "EmploymentStatus": "FT",
+            "IsIeOrigin": "True",
+            "MedicareId": null,
+            "AlternateId": null,
+            "CountyOfEligibility": null,
+            "AidCategory": null,
+            "RedeterminationDate": null,
+            "MedicaidBeginDate": null,
+            "MedicaidEndDate": null,
+            "DateOfDeath": null,
+            "ResponsiblePersonType": null,
+            "CobCount": "0",
+            "ReportingCategoryCount": "0"
+          }
+        },
+        {
+          "MemberId": "9A0300000002",
+          "MaintenanceType": "024",
+          "MaintenanceAction": "Termination",
+          "LastName": "LEWIS",
+          "FirstName": "DONALD",
+          "MiddleName": "G",
+          "DateOfBirth": "19580930",
+          "Gender": "M",
+          "Ssn": "222222222",
+          "City": "MANSFIELD",
+          "State": "OH",
+          "Zip": "44902",
+          "CoverageCount": 1,
+          "Coverages": [
+            {
+              "MaintenanceType": "024",
+              "InsuranceLine": "HMO",
+              "PlanDescription": "ABD",
+              "BeginDate": "20230601",
+              "EndDate": "20260201",
+              "ExtendedFields": {
+                "RateCellIndicator": "0230601002",
+                "RateCellMissing": "False",
+                "PatientLiability": null,
+                "InsuranceLineDesc": "Health Maintenance Organization",
+                "PlanCoverageDescFull": "Aged/Blind/Disabled"
+              }
+            }
+          ],
+          "HasCriticalErrors": false,
+          "ExtendedFields": {
+            "AssignmentReason": "1",
+            "AssignmentReasonDesc": "Lost eligibility",
+            "EmploymentStatus": "FT",
+            "IsIeOrigin": "True",
+            "MedicareId": null,
+            "AlternateId": null,
+            "CountyOfEligibility": null,
+            "AidCategory": null,
+            "RedeterminationDate": null,
+            "MedicaidBeginDate": null,
+            "MedicaidEndDate": null,
+            "DateOfDeath": null,
+            "ResponsiblePersonType": null,
+            "CobCount": "0",
+            "ReportingCategoryCount": "0"
+          }
+        },
+        {
+          "MemberId": "9A0300000003",
+          "MaintenanceType": "001",
+          "MaintenanceAction": "Change",
+          "LastName": "WALKER",
+          "FirstName": "ASHLEY",
+          "MiddleName": "R",
+          "DateOfBirth": "20140515",
+          "Gender": "F",
+          "Ssn": "333333333",
+          "City": "LIMA",
+          "State": "OH",
+          "Zip": "45801",
+          "CoverageCount": 2,
+          "Coverages": [
+            {
+              "MaintenanceType": "001",
+              "InsuranceLine": "HMO",
+              "PlanDescription": "CFC",
+              "BeginDate": "20250901",
+              "EndDate": "99991231",
+              "ExtendedFields": {
+                "RateCellIndicator": "0250901003",
+                "RateCellMissing": "False",
+                "PatientLiability": null,
+                "InsuranceLineDesc": "Health Maintenance Organization",
+                "PlanCoverageDescFull": "Covered Families and Children"
+              }
+            },
+            {
+              "MaintenanceType": "001",
+              "InsuranceLine": "MM",
+              "PlanDescription": "CFC",
+              "BeginDate": "20250901",
+              "EndDate": "99991231",
+              "ExtendedFields": {
+                "RateCellIndicator": "0250901003",
+                "RateCellMissing": "False",
+                "PatientLiability": null,
+                "InsuranceLineDesc": "Major Medical (Patient Liability)",
+                "PlanCoverageDescFull": "Covered Families and Children"
+              }
+            }
+          ],
+          "HasCriticalErrors": false,
+          "ExtendedFields": {
+            "AssignmentReason": "EC",
+            "AssignmentReasonDesc": "Third Party Liability coverage",
+            "EmploymentStatus": "FT",
+            "IsIeOrigin": "True",
+            "MedicareId": null,
+            "AlternateId": null,
+            "CountyOfEligibility": null,
+            "AidCategory": null,
+            "RedeterminationDate": null,
+            "MedicaidBeginDate": null,
+            "MedicaidEndDate": null,
+            "DateOfDeath": null,
+            "ResponsiblePersonType": null,
+            "CobCount": "0",
+            "ReportingCategoryCount": "0"
+          }
+        },
+        {
+          "MemberId": "9A0300000004",
+          "MaintenanceType": "001",
+          "MaintenanceAction": "Change",
+          "LastName": "YOUNG",
+          "FirstName": "STEPHANIE",
+          "MiddleName": "L",
+          "DateOfBirth": "19860712",
+          "Gender": "F",
+          "Ssn": "444444444",
+          "City": "ZANESVILLE",
+          "State": "OH",
+          "Zip": "43701",
+          "CoverageCount": 1,
+          "Coverages": [
+            {
+              "MaintenanceType": "001",
+              "InsuranceLine": "HMO",
+              "PlanDescription": "CFC",
+              "BeginDate": "20260101",
+              "EndDate": "99991231",
+              "ExtendedFields": {
+                "RateCellIndicator": "0260101004",
+                "RateCellMissing": "False",
+                "PatientLiability": null,
+                "InsuranceLineDesc": "Health Maintenance Organization",
+                "PlanCoverageDescFull": "Covered Families and Children"
+              }
+            }
+          ],
+          "HasCriticalErrors": false,
+          "ExtendedFields": {
+            "AssignmentReason": "EC",
+            "AssignmentReasonDesc": "Third Party Liability coverage",
+            "EmploymentStatus": "FT",
+            "IsIeOrigin": "True",
+            "MedicareId": null,
+            "AlternateId": null,
+            "CountyOfEligibility": null,
+            "AidCategory": null,
+            "RedeterminationDate": null,
+            "MedicaidBeginDate": null,
+            "MedicaidEndDate": null,
+            "DateOfDeath": null,
+            "ResponsiblePersonType": null,
+            "CobCount": "0",
+            "ReportingCategoryCount": "0"
+          }
+        },
+        {
+          "MemberId": "9A0300000005",
+          "MaintenanceType": "021",
+          "MaintenanceAction": "Add",
+          "LastName": "ALLEN",
+          "FirstName": "GEORGE",
+          "MiddleName": "F",
+          "DateOfBirth": "19430825",
+          "Gender": "M",
+          "Ssn": "555555555",
+          "City": "COLUMBUS",
+          "State": "OH",
+          "Zip": "43215",
+          "CoverageCount": 1,
+          "Coverages": [
+            {
+              "MaintenanceType": "021",
+              "InsuranceLine": "HMO",
+              "PlanDescription": "ABD",
+              "BeginDate": "20260301",
+              "EndDate": "99991231",
+              "ExtendedFields": {
+                "RateCellIndicator": "0260301005",
+                "RateCellMissing": "False",
+                "PatientLiability": null,
+                "InsuranceLineDesc": "Health Maintenance Organization",
+                "PlanCoverageDescFull": "Aged/Blind/Disabled"
+              }
+            }
+          ],
+          "HasCriticalErrors": false,
+          "ExtendedFields": {
+            "AssignmentReason": "28",
+            "AssignmentReasonDesc": "Auto-enrollment: same MCE within previous 3 months, or newborn on mother\u0027s MCE",
+            "EmploymentStatus": "FT",
+            "IsIeOrigin": "True",
+            "MedicareId": null,
+            "AlternateId": null,
+            "CountyOfEligibility": null,
+            "AidCategory": null,
+            "RedeterminationDate": null,
+            "MedicaidBeginDate": null,
+            "MedicaidEndDate": null,
+            "DateOfDeath": null,
+            "ResponsiblePersonType": null,
+            "CobCount": "0",
+            "ReportingCategoryCount": "0"
+          }
+        }
+      ]
+    }
+  ],
+  "ValidationIssues": []
+}
