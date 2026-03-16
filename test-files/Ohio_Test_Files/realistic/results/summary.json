@@ -1,0 +1,49 @@
+{
+  "Parser": "ohio",
+  "RunTimestamp": "2026-03-16T13:53:23Z",
+  "TotalFiles": 3,
+  "FilesParsed": 3,
+  "FilesFailed": 0,
+  "TotalMembers": 30,
+  "MembersWithCriticalErrors": 0,
+  "MembersClean": 30,
+  "TotalCoverages": 53,
+  "Validation": {
+    "Critical": 0,
+    "Warning": 3,
+    "Informational": 10
+  },
+  "TotalParseTimeMs": 46.3238,
+  "Files": [
+    {
+      "FileName": "OH_834_REALISTIC_CHANGES_20260515.edi",
+      "Success": true,
+      "ParseTimeMs": 44.4507,
+      "MemberCount": 10,
+      "CoverageCount": 18,
+      "CriticalIssues": 0,
+      "WarningIssues": 0,
+      "InfoIssues": 3
+    },
+    {
+      "FileName": "OH_834_REALISTIC_FULL_20260501.edi",
+      "Success": true,
+      "ParseTimeMs": 1.6966,
+      "MemberCount": 15,
+      "CoverageCount": 27,
+      "CriticalIssues": 0,
+      "WarningIssues": 3,
+      "InfoIssues": 6
+    },
+    {
+      "FileName": "OH_834_REALISTIC_MULTI_TX_20260601.edi",
+      "Success": true,
+      "ParseTimeMs": 0.1765,
+      "MemberCount": 5,
+      "CoverageCount": 8,
+      "CriticalIssues": 0,
+      "WarningIssues": 0,
+      "InfoIssues": 1
+    }
+  ]
+}
